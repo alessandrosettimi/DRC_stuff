@@ -1,7 +1,5 @@
-DRC_stuff
-=========
-
 Prepare a vanilla-ubuntu for the DRC stuff:
+=========
 
 - install ros following: http://wiki.ros.org/hydro/Installation/Ubuntu
 
