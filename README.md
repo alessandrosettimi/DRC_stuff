@@ -1,4 +1,4 @@
-Prepare a vanilla-ubuntu for the DRC stuff:
+Prepare a vanilla-ubuntu 13.04 for the DRC stuff:
 =========
 
 - install ros following: http://wiki.ros.org/hydro/Installation/Ubuntu
