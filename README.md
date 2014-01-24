@@ -11,6 +11,7 @@ Prepare a vanilla-ubuntu for the DRC stuff:
 
 - install yarp following: http://wiki.icub.org/wiki/Linux:Installation_from_sources#Getting_the_YARP_and_iCub_sources
                      and: http://wiki.icub.org/wiki/Linux:Installation_from_binaries
+  -> use the CREATE_SHARED_LIBRARY option in the ccmake!!
 
 - related packages: 
 ```
